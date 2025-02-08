@@ -4,6 +4,8 @@
 
 Building cool things and making a little noise. I'm a software developer apprentice at a $24M company, where I'm constantly learning and growing as I craft digital experiences.  I also love to express my creativity through composing music for my Minecraft server – it's a fun way to blend my passions "[Music-Channel][youtube2]".  My journey has also included exploring the world of entertainment videos, a chapter filled with fun memories "[Private-Main Channel][youtube]".  I'm excited to see what the future holds!
 
+#
+
    <p align="left">
       <a href="https://www.youtube.com/@craftxultra?sub_confirmation=1">
          <img alt="youtube subscribers" title="My Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCtCm8nCi0T_1BNO_MxBSZDA?style=for-the-badge&logo=youtube&logoSize=auto&labelColor=%23ad4734"/></a> 
