@@ -8,12 +8,18 @@
          <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Sxynte?style=for-the-badge&logo=github&logoSize=auto&labelColor=007ec6&color=00a2ff"/></a>
       <a href="https://github.com/Sxynte?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Sxynte?style=for-the-badge&logo=star&labelColor=488207&color=55960c"/></a>
-      <a href="https://dsc.gg/neptune-net">
-         <img alt="total stars" title="Join the Community" src="https://img.shields.io/badge/Discord-Join%20Now-brightgreen?style=for-the-badge&logo=Discord&logoSize=auto&labelColor=3c45a5&color=5764f1&link=https%3A%2F%2Fdsc.gg%2Fneptune-net"/></a>
    </p>
 
 ---
-
+# 🧠 Get to know me
+   <p align="left">
+      <a href="https://dsc.gg/neptune-net">
+         <img alt="total stars" title="Join the Community" src="https://img.shields.io/badge/Discord-Join%20Now-brightgreen?style=for-the-badge&logo=Discord&logoSize=auto&labelColor=3c45a5&color=5764f1&link=https%3A%2F%2Fdsc.gg%2Fneptune-net"/></a>
+      <a href="https://e-z.bio/syntetv">
+         <img alt="total stars" title="Biography - Socials" src="https://custom-icon-badges.demolab.com/badge/Biograpgy-Read%20Me-brightgreen?style=for-the-badge&logo=logs&logoSize=auto&labelColor=084133&color=128e6f
+"/></a>
+   </p>
+---
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
@@ -49,7 +55,7 @@
 
 #
 <details>
- <summary><h3>👨‍💻 Things about me</h3></summary>Building cool things and making a little noise. I'm a software developer apprentice at a $24M company, where I'm constantly learning and growing as I craft digital experiences.  I also love to express my creativity through composing music for my Minecraft server – it's a fun way to blend my passions (check it out: https://www.youtube.com/@DE_Neptune).  My journey has also included exploring the world of entertainment videos, a chapter filled with fun memories (https://www.youtube.com/@craftxultra).  I'm excited to see what the future holds!  For business inquiries, please contact me at business@nt-neptune.de.
+ <summary><h3>👨‍💻 Things about me</h3></summary>Building cool things and making a little noise. I'm a software developer apprentice at a $24M company, where I'm constantly learning and growing as I craft digital experiences.  I also love to express my creativity through composing music for my Minecraft server – it's a fun way to blend my passions ["Music-Channel"](https://www.youtube.com/@DE_Neptune).  My journey has also included exploring the world of entertainment videos, a chapter filled with fun memories ["Private-Main Channel"](https://www.youtube.com/@craftxultra).  I'm excited to see what the future holds!  For business inquiries, please contact me at business@nt-neptune.de.
    
 <!--[website]: https://example.com-->
-[youtube]: https://youtube.com/Sxynte
+[youtube]: https://youtube.com/@Sxynte
