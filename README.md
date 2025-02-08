@@ -7,7 +7,7 @@
       <a href="https://github.com/Sxynte?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Sxynte?style=for-the-badge&logo=github&logoSize=Auto&labelColor=007ec6&color=00a2ff"/></a>
       <a href="https://github.com/Sxynte?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/Sxynte?style=for-the-badge&logo=star&labelColor=488207&color=55960c"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="[https://custom-icon-badges.demolab.com/Sxynte?style=for-the-badge&logo=star&labelColor=488207&color=55960c](https://img.shields.io/github/stars/Sxynte?style=for-the-badge&logo=star&labelColor=488207&color=55960c)"/></a>
    </p>
 
 ---
