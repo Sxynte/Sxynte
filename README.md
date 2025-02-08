@@ -16,8 +16,7 @@
       <a href="https://dsc.gg/neptune-net">
          <img alt="total stars" title="Join the Community" src="https://img.shields.io/badge/Discord-Join%20Now-brightgreen?style=for-the-badge&logo=Discord&logoSize=auto&labelColor=3c45a5&color=5764f1&link=https%3A%2F%2Fdsc.gg%2Fneptune-net"/></a>
       <a href="https://e-z.bio/syntetv">
-         <img alt="total stars" title="Biography - Socials" src="https://custom-icon-badges.demolab.com/badge/Biograpgy-Read%20Me-brightgreen?style=for-the-badge&logo=logs&logoSize=auto&labelColor=084133&color=128e6f
-"/></a>
+         <img alt="total stars" title="Biography - Socials" src="https://custom-icon-badges.demolab.com/badge/Biograpgy-Read%20Me-brightgreen?style=for-the-badge&logo=logs&logoSize=auto&labelColor=084133&color=128e6f"/></a>
    </p>
 ---
 ### 🧰 Languages and Tools
