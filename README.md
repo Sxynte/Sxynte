@@ -15,7 +15,7 @@ Building cool things and making a little noise. I'm a software developer apprent
       <a href="https://github.com/Sxynte?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Sxynte?style=for-the-badge&logo=star&labelColor=488207&color=55960c"/></a>
    </p>
-# 
+#
 ### 🧠 Get to know me
    <p align="left">
       <a href="https://dsc.gg/neptune-net">
