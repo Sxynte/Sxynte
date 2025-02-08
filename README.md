@@ -15,7 +15,7 @@
 
 Building cool things and making a little noise. I'm a software developer apprentice at a $24M company, where I'm constantly learning and growing as I craft digital experiences.  I also love to express my creativity through composing music for my Minecraft server – it's a fun way to blend my passions "[Music-Channel][youtube2]".  My journey has also included exploring the world of entertainment videos, a chapter filled with fun memories "[Private-Main Channel][youtube]".  I'm excited to see what the future holds!
 
----
+# 
 
 ### 🧠 Get to know me
    <p align="left">
@@ -25,7 +25,7 @@ Building cool things and making a little noise. I'm a software developer apprent
          <img alt="total stars" title="Biography - Socials" src="https://custom-icon-badges.demolab.com/badge/Biograpgy-Read%20Me-brightgreen?style=for-the-badge&logo=logs&logoSize=auto&labelColor=084133&color=128e6f"/></a>
    </p>
    
----
+# 
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
