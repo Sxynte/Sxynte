@@ -11,7 +11,7 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Sxynte?style=for-the-badge&logo=star&labelColor=488207&color=55960c"/></a>
    </p>
 
-**`Software Engineer (Developer/Video Editor)`**
+**`Software Engineer`** **`Developer`** **`Video Editor`** **`Hobbyist Minecraft Developer`**
 
 Building cool things and making a little noise. I'm a software developer apprentice at a $24M company, where I'm constantly learning and growing as I craft digital experiences.  I also love to express my creativity through composing music for my Minecraft server – it's a fun way to blend my passions "[Music-Channel][youtube2]".  My journey has also included exploring the world of entertainment videos, a chapter filled with fun memories "[Private-Main Channel][youtube]".  I'm excited to see what the future holds!
 
@@ -34,6 +34,7 @@ Building cool things and making a little noise. I'm a software developer apprent
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://yt3.googleusercontent.com/ytc/AIdro_nZX71KUAHdeQ0PDnYeWymu39S3kiROcyLJnmFbdln89lc=s900-c-k-c0x00ffffff-no-rj" />
 <img align="left" alt="GitBook" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitbook/gitbook-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-plain.svg" />
 <br />
 
 #
