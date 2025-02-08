@@ -48,10 +48,8 @@
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Sxynte&theme=gruvbox&border_radius=4.5) -->
 
 #
-<!--
 <details>
- <summary><h3>👨‍💻 Sxynte's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Sxynte's Coding Journey</h3></summary>Building cool things and making a little noise. I'm a software developer apprentice at a $24M company, where I'm constantly learning and growing as I craft digital experiences.  I also love to express my creativity through composing music for my Minecraft server – it's a fun way to blend my passions (check it out: https://www.youtube.com/@DE_Neptune).  My journey has also included exploring the world of entertainment videos, a chapter filled with fun memories (https://www.youtube.com/@craftxultra).  I'm excited to see what the future holds!  For business inquiries, please contact me at business@nt-neptune.de.
    
--->
 <!--[website]: https://example.com-->
 [youtube]: https://youtube.com/Sxynte
