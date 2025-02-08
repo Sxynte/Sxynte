@@ -56,7 +56,8 @@
 
 #
 <details>
- <summary><h3>👨‍💻 Things about me</h3></summary>Building cool things and making a little noise. I'm a software developer apprentice at a $24M company, where I'm constantly learning and growing as I craft digital experiences.  I also love to express my creativity through composing music for my Minecraft server – it's a fun way to blend my passions [Music-Channel](https://www.youtube.com/@DE_Neptune) .  My journey has also included exploring the world of entertainment videos, a chapter filled with fun memories [Private-Main Channel](https://www.youtube.com/@craftxultra) .  I'm excited to see what the future holds!  For business inquiries, please contact me at business@nt-neptune.de.
+ <summary><h3>👨‍💻 Things about me</h3></summary>Building cool things and making a little noise. I'm a software developer apprentice at a $24M company, where I'm constantly learning and growing as I craft digital experiences.  I also love to express my creativity through composing music for my Minecraft server – it's a fun way to blend my passions [Music-Channel][youtube2] .  My journey has also included exploring the world of entertainment videos, a chapter filled with fun memories [Private-Main Channel][youtube] .  I'm excited to see what the future holds!  For business inquiries, please contact me at business@nt-neptune.de.
    
-<!--[website]: https://example.com-->
-[youtube]: https://youtube.com/@Sxynte
+[website]: https://e-z.bio/syntetv
+[youtube]: https://youtube.com/@Sxynte](https://www.youtube.com/@craftxultra
+[youtube2]: https://www.youtube.com/@DE_Neptune
