@@ -33,7 +33,7 @@
 
 #
 
-### 📺 Latest YouTube Videos [Not Main Channel]
+### 📺 Latest YouTube Videos [Music - Channel]
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Neptune OST - "Steep Alps"](https://ytcards.demolab.com/?id=u6tHtPzbZOU&title=Neptune+OST+-+%22Steep+Alps%22&lang=de&timestamp=1732017564&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=193 "Neptune OST - \"Steep Alps\"")](https://www.youtube.com/watch?v=u6tHtPzbZOU)
