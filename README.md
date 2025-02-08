@@ -1,7 +1,7 @@
 
    <p align="left">
       <a href="https://www.youtube.com/@craftxultra?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCtCm8nCi0T_1BNO_MxBSZDA?style=for-the-badge&logo=youtube&logoSize=auto&labelColor=%23ad4734"/></a> 
       <a href="https://www.youtube.com/@craftxultra">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/Sxynte?tab=followers">
