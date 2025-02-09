@@ -55,6 +55,13 @@ Building cool things and making a little noise. I'm a software developer apprent
 
 #
 
+### 🥇 My Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sxynte&repo=github-readme-stats)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Sxynte/NeptunePlugin))
+
+
+
+
+
 <details>
 <summary>📊 Stats</summary>
    
