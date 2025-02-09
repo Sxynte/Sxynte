@@ -56,7 +56,7 @@ Building cool things and making a little noise. I'm a software developer apprent
 #
 
 ### 🥇 My Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sxynte&repo=github-readme-stats)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Sxynte/NeptunePlugin))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sxynte&repo=github-readme-stats)](https://github.com/Sxynte/NeptunePlugin)
 
 
 
@@ -65,10 +65,10 @@ Building cool things and making a little noise. I'm a software developer apprent
 <details>
 <summary>📊 Stats</summary>
    
-![Sxynte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sxynte&show_icons=true&theme=gruvbox)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sxynte&theme=gruvbox&exclude_days=Sun)](https://git.io/streak-stats)
+[![Sxynte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sxynte&show_icons=true&theme=gruvbox)]
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sxynte&theme=gruvbox&exclude_days=Sun)](https://git.io/streak-stats)]
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sxynte&theme=gruvbox&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sxynte&theme=gruvbox&layout=compact)]
 
 </details>
 
