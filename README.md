@@ -70,7 +70,7 @@ Building cool things and making a little noise. I'm a software developer apprent
 
 [![Spotify](https://novatorem-gold-two.vercel.app/api/spotify)](https://open.spotify.com/user/tommynguyen4c)
 
-<b>Note:</b> Press F5 to refresh :)
+<b>Note:</b> Press F5 to refresh :) Also want the Spotify integration check this awesome repository [Credits][credits].
 
 ---
 
@@ -95,3 +95,4 @@ Building cool things and making a little noise. I'm a software developer apprent
 [website]: https://e-z.bio/syntetv
 [youtube]: https://youtube.com/@Sxynte](https://www.youtube.com/@craftxultra
 [youtube2]: https://www.youtube.com/@DE_Neptune
+[credits]: https://github.com/novatorem/novatorem
