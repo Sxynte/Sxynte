@@ -27,7 +27,7 @@ Building cool things and making a little noise. I'm a software developer apprent
    </p>
    
 ---
-<a href="{{songURI}}" class="spotify-logo">
+<a href="https://novatorem-gold-two.vercel.app/api/spotify" class="spotify-logo">
   <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
     <title>Spotify</title>
     <path
