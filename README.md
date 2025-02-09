@@ -1,4 +1,4 @@
-# 🌌Sxynte/CraftXUltra🌌
+# 🌌Sxynte / CraftXUltra🌌
    <p align="left">
       <a href="https://www.youtube.com/@craftxultra?sub_confirmation=1">
          <img alt="youtube subscribers" title="My Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCtCm8nCi0T_1BNO_MxBSZDA?style=for-the-badge&logo=youtube&logoSize=auto&labelColor=%23ad4734"/></a> 
@@ -28,7 +28,7 @@ Building cool things and making a little noise. I'm a software developer apprent
    
 ---
 
-### 🎵 Currently Listening
+### 🎵 Currently listening
 
 [![Spotify](https://novatorem-gold-two.vercel.app/api/spotify)](https://open.spotify.com/user/tommynguyen4c)
 
@@ -63,7 +63,7 @@ Building cool things and making a little noise. I'm a software developer apprent
 
 #
 
-### 🥇 My Recent activity
+<!--### 🥇 My Recent activity-->
 
 <!--START_SECTION:activity-->
 
