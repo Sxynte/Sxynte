@@ -1,4 +1,5 @@
 # 🌌Sxynte / CraftXUltra🌌
+
    <p align="left">
       <a href="https://www.youtube.com/@craftxultra?sub_confirmation=1">
          <img alt="youtube subscribers" title="My Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCtCm8nCi0T_1BNO_MxBSZDA?style=for-the-badge&logo=youtube&logoSize=auto&labelColor=%23ad4734"/></a> 
@@ -41,7 +42,7 @@ Building cool things and making a little noise. I'm a software developer apprent
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <br />
 
-# 
+---
 
 ### 📺 Latest YouTube Videos [Music - Channel]
 
