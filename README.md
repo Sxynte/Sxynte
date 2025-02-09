@@ -55,7 +55,8 @@ Building cool things and making a little noise. I'm a software developer apprent
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Main%20Channel-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/@craftxultra?sub_confirmation=1)
-[<img src="https://custom-icon-badges.demolab.com/badge/-Music%20Channel-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@DE_Neptune)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Second%20Channel-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@craftxclips?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Music%20Channel-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@DE_Neptune?sub_confirmation=1)
 
 # 
 
