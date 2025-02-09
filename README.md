@@ -58,7 +58,7 @@ Building cool things and making a little noise. I'm a software developer apprent
 <summary>### 📊 Stats</summary>
    
 ![Sxynte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sxynte&show_icons=true&theme=gruvbox)
-[![Readme Card](https://vercel.com/69t/github-readme-stats/Ewr625TAvio3VEugQVrbxW3RhwYi/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://vercel.com/69t/github-readme-stats/Ewr625TAvio3VEugQVrbxW3RhwYi/api/pin/?username=Sxynte&repo=github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sxynte&theme=gruvbox&exclude_days=Sun)](https://git.io/streak-stats)
 
 </details>
