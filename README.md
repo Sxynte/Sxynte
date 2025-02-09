@@ -55,8 +55,8 @@ Building cool things and making a little noise. I'm a software developer apprent
 
 #
 
-### 🥇 My Projects
-
+### 🥇 My Recent activity
+<!--START_SECTION:activity-->
 
 
 <details>
