@@ -78,7 +78,7 @@ Building cool things and making a little noise. I'm a software developer apprent
 <summary>📊 Stats</summary>
 
 ![Sxynte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sxynte&show_icons=true&theme=gruvbox)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sxynte&theme=gruvbox&exclude_days=Sun)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-zeta.vercel.app/user=Sxynte&theme=gruvbox&exclude_days=Sun)](https://git.io/streak-stats)
 
 <b>Note:</b> Top Languages does not indicate the user's skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub.
 
