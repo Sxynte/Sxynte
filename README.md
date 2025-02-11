@@ -58,18 +58,6 @@ Building cool things and making a little noise. I'm a software developer apprent
 [<img src="https://custom-icon-badges.demolab.com/badge/-Second%20Channel-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@craftxclips?sub_confirmation=1)
 [<img src="https://custom-icon-badges.demolab.com/badge/-Music%20Channel-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@DE_Neptune?sub_confirmation=1)
 
-# 
-<details>
-<summary>🎵 Listening to</summary>
-
-### 🎵 Currently listening
-
-[![Spotify](https://novatorem-gold-two.vercel.app/api/spotify)](https://open.spotify.com/user/tommynguyen4c)
-
-<b>Note:</b> Press F5 to refresh :) If you want the Spotify integration, check this awesome repository [Credits][credits].
-
-</details>
-
 ---
 
 <picture>
@@ -92,6 +80,17 @@ Building cool things and making a little noise. I'm a software developer apprent
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sxynte&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</details>
+
+<details>
+<summary>🎵 Listening to</summary>
+
+### 🎵 Currently listening
+
+[![Spotify](https://novatorem-gold-two.vercel.app/api/spotify)](https://open.spotify.com/user/tommynguyen4c)
+
+<b>Note:</b> Press F5 to refresh :) If you want the Spotify integration, check this awesome repository [Credits][credits].
 
 </details>
 
