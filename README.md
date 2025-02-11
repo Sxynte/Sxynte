@@ -60,11 +60,6 @@ Building cool things and making a little noise. I'm a software developer apprent
 
 # 
 
-### 🥇 My Recent activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ### 🎵 Currently listening
 
 [![Spotify](https://novatorem-gold-two.vercel.app/api/spotify)](https://open.spotify.com/user/tommynguyen4c)
@@ -88,13 +83,22 @@ Building cool things and making a little noise. I'm a software developer apprent
 
 </details>
 
-# 
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sxynte/Sxynte/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sxynte/Sxynte/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Sxynte/Sxynte/output/github-snake.svg" />
 </picture>
+
+# 
+
+### 🥇 My Recent activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+# 
 
 <!--
 <details>
