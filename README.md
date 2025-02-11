@@ -111,7 +111,7 @@ Building cool things and making a little noise. I'm a software developer apprent
 ![](https://github-profile-trophy.vercel.app/?username=Sxynte&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 -->
-#
+
 <!--
 <details>
  <summary><h3>👨‍💻 Things about me</h3></summary>
