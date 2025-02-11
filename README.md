@@ -68,6 +68,14 @@ Building cool things and making a little noise. I'm a software developer apprent
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sxynte/Sxynte/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sxynte/Sxynte/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Sxynte/Sxynte/output/github-snake.svg" />
+</picture>
+
+# 
+
 <details>
 <summary>📊 Stats</summary>
 
@@ -83,22 +91,10 @@ Building cool things and making a little noise. I'm a software developer apprent
 
 </details>
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sxynte/Sxynte/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sxynte/Sxynte/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Sxynte/Sxynte/output/github-snake.svg" />
-</picture>
-
-# 
-
-### 🥇 My Recent activity
+<!--### 🥇 My Recent activity-->
 
 <!--START_SECTION:activity-->
 
-
-# 
 
 <!--
 <details>
