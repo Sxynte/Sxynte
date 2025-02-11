@@ -77,12 +77,12 @@ Building cool things and making a little noise. I'm a software developer apprent
 <details>
 <summary>📊 Stats</summary>
 
+### 📊 GitHub Stats
 ![Sxynte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sxynte&show_icons=true&theme=dark)
 [![GitHub Streak](https://github-readme-streak-zeta.vercel.app?user=Sxynte&theme=dark&exclude_days=Sun)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sxynte&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <b>Note:</b> Top Languages does not indicate the user's skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub.
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sxynte&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sxynte&limit=5&theme=dark&combine_all_yearly_contributions=true)
