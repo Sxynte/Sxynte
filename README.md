@@ -1,7 +1,5 @@
 # 🌌Sxynte / CraftXUltra🌌
 
-[![](https://visitcount.itsvg.in/api?id=Sxynte&icon=0&color=0)](https://visitcount.itsvg.in)
-
    <p align="left">
       <a href="https://www.youtube.com/@craftxultra?sub_confirmation=1">
          <img alt="youtube subscribers" title="My Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCtCm8nCi0T_1BNO_MxBSZDA?style=for-the-badge&logo=youtube&logoSize=auto&labelColor=%23ad4734"/></a> 
@@ -79,17 +77,21 @@ Building cool things and making a little noise. I'm a software developer apprent
 <details>
 <summary>📊 Stats</summary>
 
-![Sxynte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sxynte&show_icons=true&theme=gruvbox)
-[![GitHub Streak](https://github-readme-streak-zeta.vercel.app?user=Sxynte&theme=gruvbox&exclude_days=Sun)](https://git.io/streak-stats)
+![Sxynte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sxynte&show_icons=true&theme=dark)
+[![GitHub Streak](https://github-readme-streak-zeta.vercel.app?user=Sxynte&theme=dark&exclude_days=Sun)](https://git.io/streak-stats)
 
 <b>Note:</b> Top Languages does not indicate the user's skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sxynte&theme=gruvbox&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sxynte&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sxynte&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </details>
 
 # 
 
+<!--
 <details>
 
 <summary>📊 GitHub Stats</summary>
@@ -97,6 +99,8 @@ Building cool things and making a little noise. I'm a software developer apprent
 ![](https://github-readme-stats.vercel.app/api?username=Sxynte&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sxynte&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sxynte&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sxynte&theme=dark&layout=compact)
 
 </details>
 
@@ -106,6 +110,7 @@ Building cool things and making a little noise. I'm a software developer apprent
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sxynte&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
+-->
 #
 <!--
 <details>
