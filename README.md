@@ -1,5 +1,7 @@
 # 🌌Sxynte / CraftXUltra🌌
 
+[![](https://visitcount.itsvg.in/api?id=Sxynte&icon=0&color=0)](https://visitcount.itsvg.in)
+
    <p align="left">
       <a href="https://www.youtube.com/@craftxultra?sub_confirmation=1">
          <img alt="youtube subscribers" title="My Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCtCm8nCi0T_1BNO_MxBSZDA?style=for-the-badge&logo=youtube&logoSize=auto&labelColor=%23ad4734"/></a> 
@@ -85,6 +87,24 @@ Building cool things and making a little noise. I'm a software developer apprent
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sxynte&theme=gruvbox&layout=compact)
 
 </details>
+
+# 
+
+<details>
+
+<summary>📊 GitHub Stats</summary>
+
+![](https://github-readme-stats.vercel.app/api?username=Sxynte&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sxynte&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sxynte&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</details>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sxynte&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sxynte&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 #
 <!--
