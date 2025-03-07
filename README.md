@@ -125,7 +125,7 @@ Building cool things and making a little noise. I'm a software developer apprent
  <summary><h3>👨‍💻 Things about me</h3></summary>
 -->
 [website]: https://e-z.bio/syntetv
-[youtube]: https://youtube.com/@Sxynte](https://www.youtube.com/@craftxultra
+[youtube]: https://youtube.com/@craftxultra](https://www.youtube.com/@craftxultra)
 [youtube2]: https://www.youtube.com/@DE_Neptune
 [credits]: https://github.com/novatorem/novatorem
 
