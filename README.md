@@ -20,7 +20,7 @@ Building cool things and making a little noise. I'm a software developer apprent
 **`Junior Software Engineer`** **`Developer`** **`Video Editor`** **`Roblox Developer`** **`Hobbyist Minecraft Developer`** **`Hobbyist Music Composer`**
 
    <p align="left">
-      <a href="https://dsc.gg/neptune-net">
+      <a href="https://discord.nt-neptune.de">
          <img alt="discord" title="Join the Community" src="https://img.shields.io/badge/Discord-Join%20Now-brightgreen?style=for-the-badge&logo=Discord&logoSize=auto&labelColor=3c45a5&color=5764f1&link=https%3A%2F%2Fdsc.gg%2Fneptune-net"/></a>
       <a href="https://e-z.bio/syntetv">
          <img alt="about me" title="Biography - Socials" src="https://custom-icon-badges.demolab.com/badge/Biography-Read%20Me-brightgreen?style=for-the-badge&logo=logs&logoSize=auto&labelColor=084133&color=128e6f&logoColor=fef8e7"/></a>
