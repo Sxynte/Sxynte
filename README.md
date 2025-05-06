@@ -59,13 +59,13 @@ Building cool things and making a little noise. I'm a software developer apprent
 [<img src="https://custom-icon-badges.demolab.com/badge/-Music%20Channel-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@DE_Neptune?sub_confirmation=1)
 
 ---
-
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sxynte/Sxynte/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sxynte/Sxynte/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Sxynte/Sxynte/output/github-snake.svg" />
 </picture>
-
+-->
 # 
 
 <details>
