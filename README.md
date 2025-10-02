@@ -97,7 +97,7 @@ Building cool things and making a little noise. I'm a software developer apprent
 <!--### 🥇 My Recent activity-->
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8](https://github.com/VirageRoblox/Virage-Grow-A-Garden-Macro/issues/8) in [VirageRoblox/Virage-Grow-A-Garden-Macro](https://github.com/VirageRoblox/Virage-Grow-A-Garden-Macro)
+1. 🗣 Commented on [#35](https://github.com/AkselGlyholt/velocity-limbo-handler/issues/35#issuecomment-3362274663) in [AkselGlyholt/velocity-limbo-handler](https://github.com/AkselGlyholt/velocity-limbo-handler)
 <!--END_SECTION:activity-->
 
 
