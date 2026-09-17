@@ -47,7 +47,11 @@ Building cool things and making a little noise. I'm a software developer apprent
 ### 📺 Latest YouTube Videos [Music - Channel]
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Neptune OST - "Steep Alps"](https://ytcards.demolab.com/?id=u6tHtPzbZOU&title=Neptune+OST+-+%22Steep+Alps%22&lang=de&timestamp=1732017564&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=193 "Neptune OST - \"Steep Alps\"")](https://www.youtube.com/watch?v=u6tHtPzbZOU)
+[![Neptune OST - "String Rain"](https://ytcards.demolab.com/?id=mdEuxg8leMA&title=Neptune+OST+-+%22String+Rain%22&lang=de&timestamp=1731932073&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=134 "Neptune OST - \"String Rain\"")](https://www.youtube.com/watch?v=mdEuxg8leMA)
+[![Neptune OST - "The day before the arrival"](https://ytcards.demolab.com/?id=maATEHUUn-w&title=Neptune+OST+-+%22The+day+before+the+arrival%22&lang=de&timestamp=1731665108&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=133 "Neptune OST - \"The day before the arrival\"")](https://www.youtube.com/watch?v=maATEHUUn-w)
+[![Neptune OST - "The wind breeze on the mountain"](https://ytcards.demolab.com/?id=e16tBGSPJdk&title=Neptune+OST+-+%22The+wind+breeze+on+the+mountain%22&lang=de&timestamp=1708460253&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=101 "Neptune OST - \"The wind breeze on the mountain\"")](https://www.youtube.com/watch?v=e16tBGSPJdk)
+[![Neptune OST - "The way through Alcyon"](https://ytcards.demolab.com/?id=ATeu26C0ey4&title=Neptune+OST+-+%22The+way+through+Alcyon%22&lang=de&timestamp=1708377103&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=65 "Neptune OST - \"The way through Alcyon\"")](https://www.youtube.com/watch?v=ATeu26C0ey4)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Main%20Channel-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/@craftxultra?sub_confirmation=1)
