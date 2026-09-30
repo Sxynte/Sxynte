@@ -1,10 +1,6 @@
 # 🌌Sxynte / CraftXUltra🌌
 
    <p align="left">
-      <a href="https://www.youtube.com/@craftxultra?sub_confirmation=1">
-         <img alt="youtube subscribers" title="My Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCtCm8nCi0T_1BNO_MxBSZDA?style=for-the-badge&logo=youtube&logoSize=auto&labelColor=%23ad4734"/></a> 
-      <a href="https://www.youtube.com/@craftxultra">
-         <img alt="youtube views" title="My YouTube Views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCtCm8nCi0T_1BNO_MxBSZDA?style=for-the-badge&logo=eye&logoColor=white&logoSize=auto&labelColor=%23f5c842&color=ffe944"/></a> 
       <a href="https://github.com/Sxynte?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Sxynte?style=for-the-badge&logo=github&logoSize=auto&labelColor=007ec6&color=00a2ff"/></a>
       <a href="https://github.com/Sxynte?tab=repositories&sort=stargazers">
